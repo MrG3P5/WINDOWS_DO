@@ -28,7 +28,6 @@ del /f /q net.bat
 exit
 EOF
 
-
 cat >/tmp/dpart.bat<<EOF
 @ECHO OFF
 echo JENDELA INI JANGAN DITUTUP
